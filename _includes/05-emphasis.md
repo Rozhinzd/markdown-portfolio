@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## **I know how to *code*, im learning new things every day!**
+### what I learned:
+- git 
+- github 
+- HTML 
+- CSS
+- JS?*(working on it!)*
